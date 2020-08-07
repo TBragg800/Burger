@@ -1,6 +1,6 @@
 var express = require("express");
 var router = express.Router();
-var cat = require("../models/burgers.js");
+var burger = require("../models/burger.js");
 
 router.get("/", function(req, res) {
   burger.selectAll(function(data) {
