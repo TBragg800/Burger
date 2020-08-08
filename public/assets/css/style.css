@@ -1,5 +1,6 @@
 body {
     background-color: burlywood;
+    padding-bottom: 30px;
 }
 
 h1 {
@@ -10,6 +11,16 @@ h1 {
     /* -ms-transform: skewY(-5deg); */
     transform: skewY(-5deg);
     margin: 30px;
+}
+
+img {
+    background-color: burlywood;
+    margin-left: 60px;
+    border-radius: 20px;
+}
+
+.add-margin {
+    margin-left: 60px;
 }
 
 h2 {
