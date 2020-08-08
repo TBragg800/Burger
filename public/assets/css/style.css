@@ -1,3 +1,65 @@
 body {
     background-color: burlywood;
 }
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 60px;
+    font-weight: bold;
+    text-shadow: -3px 3px #911b1bc2;
+    /* -ms-transform: skewY(-5deg); */
+    transform: skewY(-5deg);
+    margin: 30px;
+}
+
+h2 {
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: -3px 3px #911b1bc2;
+    /* -ms-transform: skewY(-5deg); */
+    transform: skewY(-5deg);
+    margin: 40px;
+}
+
+.container {
+    max-width: 80%;
+}
+
+.form-group {
+    color: #911b1bc2;
+    font-family: 'Pacifico', cursive;
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: -2px 2px black;
+}
+
+li {
+    color: #911b1bc2;
+    font-family: 'Pacifico', cursive;
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: -1px 1px black;
+}
+
+button {
+    color: #fff !important;
+text-transform: uppercase;
+text-decoration: none;
+background: #ed3330;
+padding: 10px;
+border-radius: 5px;
+display: inline-block;
+border: none;
+transition: all 0.4s ease 0s;
+}
+
+.submitBtn {
+    font-family: 'VT323', monospace;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.change-devour {
+    font-family: 'VT323', monospace;
+}
