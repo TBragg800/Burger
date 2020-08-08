@@ -27,7 +27,7 @@ $(function() {
   
       var newBurger = {
         burger_name: $("#burger").val().trim(),
-        devoured: false
+        devoured: 0
       };
   
       // Send the POST request.
@@ -36,11 +36,6 @@ $(function() {
         data: newBurger
       }).then(
         function() {
-            var x = document.forms["myForm"]["name"].value;
-        if (x == "") {
-          alert("Can't enter an empty field!");
-            return false;
-          }
           console.log("created new Burger");
           // Reload the page to get the updated list
           location.reload();
