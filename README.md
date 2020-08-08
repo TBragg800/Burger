@@ -1,15 +1,15 @@
 # Burger
 
 ##  Repository: 
-[10-Template-Engine-Employee-Summary](https://github.com/TBragg800/Burger)
+[Burger](https://github.com/TBragg800/Burger)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/Burger)
 
 ## Walkthrough Video Demonstration: 
-![Walkthrough]()
+![Walkthrough](.public/assets/Eat-Da-Burger.gif)
 * YouTube link to the 
-[walkthrough]()
+[walkthrough](https://www.youtube.com/watch?v=2mkkN3ztXl8&feature=youtu.be)
 
 ## Table of Contents
   [Description](#Description)
@@ -27,15 +27,16 @@
   [Questions](#Questions)
   
 ## Description
-  
+  This application is a burger logger using MySQL, Node, Express, Handlebars and a homemade ORM. The MVC design pattern was utilized in combination with Node and MySQL to query and route data in the app, and Handlebars to generate the HTML.
 
 ## Installation
-
+* Begin by cloning the repo locally.
+* Using the CLI, the user should navigate to the project directory and run 'npm install'.
+* Use MySQL for database handling.
 
 ## Usage
- 
+ After installation, the user should run 'node server.js' in the CLI, then navigate to http:localhost:3001 or visit the heroku deployed site at https://obscure-springs-27484.herokuapp.com/.
 
-![]()
 
 ## License
   MIT License
@@ -72,4 +73,4 @@ SOFTWARE.
   Github: [TBragg800](http://github.com/TBragg800)
 
 ## Screenshot of deployed application
-![]()
+![](.public/assets/Eat-Da-Burger.png)
