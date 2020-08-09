@@ -73,4 +73,4 @@ SOFTWARE.
   Github: [TBragg800](http://github.com/TBragg800)
 
 ## Screenshot of deployed application
-![](.public/assets/Eat-Da-Burger.png)
+![](./public/assets/Eat-Da-Burger.png)
