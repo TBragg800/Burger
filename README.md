@@ -7,7 +7,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/Burger)
 
 ## Walkthrough Video Demonstration: 
-![Walkthrough](.public/assets/Eat-Da-Burger.gif)
+![Walkthrough](./assets/Eat-Da-Burger.gif)
 * YouTube link to the 
 [walkthrough](https://www.youtube.com/watch?v=2mkkN3ztXl8&feature=youtu.be)
 
